@@ -1,4 +1,4 @@
-# powerlog
+# PowerLog
 This is a hosting app for Power-Z KM003C power meter
 PowerLog 充电功率记录仪 v1.2.0
 ================================
