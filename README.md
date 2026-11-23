@@ -2,7 +2,7 @@
 This is a hosting app for Power-Z KM003C power meter
 PowerLog 充电功率记录仪 v1.2.0
 ================================
-![Uploading image.png…]()
+<img width="1843" height="1209" alt="image" src="https://github.com/user-attachments/assets/e251a239-f21f-4f9e-86dc-6f8ef52d7676" />
 
 适用设备：POWER-Z KM003C USB-C 功率计
 系统要求：Windows 10 / 11 64 位
